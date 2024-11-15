@@ -25,7 +25,7 @@ SECRET_KEY = 'nz4!v45q@6pb2_+k93$03=uo$n4#(wy9f#qisrtkknl(=y6u6g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['furniturestore-s1v5.onrender.com']
 
 
 # Application definition
